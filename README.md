@@ -1,1 +1,1 @@
-pandoc -s input.md --filter filter.py -o output.md
+pandoc -s in.md --filter filter.py -o out.md
